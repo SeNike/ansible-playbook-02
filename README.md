@@ -59,7 +59,7 @@ The playbook includes error handling to manage failures gracefully:
 
 ## Screenshots
 
-!(img)[https://github.com/SeNike/Study_24/blob/main/ansible-02/2.1.png]
-!(img)[https://github.com/SeNike/Study_24/blob/main/ansible-02/2.2.png]
-!(img)[https://github.com/SeNike/Study_24/blob/main/ansible-02/2.3.png]
-!(img)[https://github.com/SeNike/Study_24/blob/main/ansible-02/2.4.png]
+![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.1.png)
+![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.2.png)
+![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.3.png)
+![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.4.png)
