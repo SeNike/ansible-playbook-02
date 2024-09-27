@@ -56,10 +56,21 @@ The playbook includes error handling to manage failures gracefully:
 
 ## Templates
 - templates/vector.yml.j2: Template for the Vector configuration file.
+________________________________________________________________________________________________________________________________
+# Домашнее задание к занятию 2 «Работа с Playbook»
 
-## Screenshots
+Запустите ansible-lint site.yml и исправьте ошибки, если они есть.
 
 ![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.1.png)
+
+Попробуйте запустить playbook на этом окружении с флагом --check.
+
 ![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.2.png)
+
+Запустите playbook на prod.yml окружении с флагом --diff. Убедитесь, что изменения на системе произведены.
+
 ![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.3.png)
+
+Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
+
 ![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/2.4.png)
